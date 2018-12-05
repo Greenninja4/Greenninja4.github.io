@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Internet Diet"
+date: 2018-12-05 11:40:00 -0500s
+categories: Social Media
+---
+
+My brother deserves an award. This award would recognize his tolerance and steadfast nature. It would recognize his open mind and ears. It would recognize him for constantly enduring my onslaught of complaints about social media. To Austin, I hereby award you with the "Putting Up With John Complaining Award".
+
+Okay, maybe he doesn't *actually* deserve an award. I just feel bad for the guy. I want to commend him for listening to me constantly complain about how Reddit and Youtube devour all of my free time. I average around 4-6 hours on these sites daily. That's an insane amount of time! If I replaced that with a job, I could be making some serious money. If I studied for all of that time, I'd slowly climb up to be one of the smartest students on campus. My largest issue in life right now is knowing that I could be utilizing my time significantly better, but feeling powerless to do so. I feel suffocated by this social media "feed" that I've been allowing to progressively shove it's feeding tube further and further down my esophagus. It is apparent that the feed takes time away from my real life, fractures my attention span into 3 minute chunks, and causes me to always be itching for that high of finding another hilarious post. But despite seeing all of these issues, I can't help myself from limiting my wasted time. In my high school years and earlier, I was constantly playing video games, watching fun TV shows, playing with friends, and doing things that I enjoyed. My younger self would be astonished that I can be satisfied laying in my bed for hours just looking at random internet posts that are all designed to steal my attention away.
+
+So, after many months of failed attempts to limit myself, I was delighted when the iOS Screen Time feature came out. It allows users to limit the time that they spend on different applications. I put an hour limit on Reddit and Youtube combined. Shockingly, it worked! For about a week... and then I trained myself to ignore the time-limiting message. The next step was giving my flatmate control. I told him to put his personal passcode into the Screen Time interface so that I could not ignore the warnings. Again, this worked for about a week. Then I just started scrolling through these sites in Google Chrome and on my computer instead. While discussing this with my brother, he decided to show me a video (linked below, and yes, I see the irony). About a month ago, John Green released this video detailing the exact same problem that I have been having. He decided that his only solution was to take a year off of all social media. I toyed with this idea before but had never had the wherewithall to follow through. At my wits end, it became clear that this was a necessary action to take.
+
+Due to all of this, I have decided that I will Join John Green until January 1st. I'm starting out with a month hiatus from all things that waste my time (Reddit, Youtube, Netflix, HBO, and Amazon Video). If I find that it has a positive impact on my life, I hope that I'll continue the hiatus. I want to start with a short term month long goal so it starts out manageable! I'll check back in a month to discuss this hiatus.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5zlYoOmoH5U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
