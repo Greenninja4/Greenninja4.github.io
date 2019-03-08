@@ -4,6 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-EEG Headset Hacking:
-
-
+Come back later! I'm in the process of adding personal projects here...
