@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Japanese Summer"
+date: 2019-03-08 3:30:00 -0500s
+categories: Japan Japanese Summer Culture
+---
+
+During the 2018 summer, I visited my brother in Japan. He was spending a semester abroad in Nagoya. I had actually visited Japan once before through my high school's Wind Ensemble. Our band visited Okayama and Tokyo as a mini-exchange with a local Japanese high school band. That trip was crazy fun because I got to see all sorts of Japanese culture. There were also a few Japanese students that fell in love with me (I'm assuming because I was a kawaii blond american?), but that's a story for another time!
+
+Having visited before, my expectations were somewhat high since I found Japan to be a very interesting country. Japanese culture is vastly different from US culture in so many ways. For one, there are very few public garbage cans. What?!? What do they do with their trash? From what I understand, most Japanese people will carry their trash home where they can properly sort it. Most Americans just throw everything in the trash. Even if we do throw things in recycling bins, a shockingly large chunk of recyclables end up in landfills anyway due to poor economic incentives to support recycling programs. In Japan, however, they pay attention to the small numbers on each recyclable good and separate them accordingly. The care and diligence that is required of every citizen to keep their system functioning is impressive. Americans can barely separate trash from recycling let alone recyclables from other recyclables. Japanese culture also requires that its citizens stay respectful. Even in the heart of Tokyo, I heard practically no horn honks on the roads. Pedestrians also never jay-walked. Meanwhile in the US, if I walk down a road for more than 5 minutes, I'm almost guaranteed to hear a honk. To be completely honest, I'd probably be the one jay-walking.
+
+However, not everything in Japan is perfect. The work-life balance often weighs heavily on the work side. Japanese business people are expected to stay at the office past their boss to maintain a level of respect regardless of whether they have work to do or not. Also, when in Japan I started missing how large everything in America is. For better or worse, the United States has massive houses, gigantic sodas (with free refills), and massive servings of amazing food. Though Japanese sushi is a half the price of and twice as good American sushi, Japan still has to figure out how to make the perfect cheeseburger.
+
+Despite Japanese and American cultures differing so much, you I slowly grew accustomed to the fact that everyone in Japan was also just a simple person. Everybody has somewhere to be, something to do, problems in their life, loved ones, and everything else that makes us human. So we should accept our differences in culture and take them positively since they enrich the world that we live in. If you ever have the chance to visit Japan, jump on it. If you go with an open mind ready to experience something different, you will have a great time and learn all sorts of things about a culture different from your own.
+
+(Note: I very much hope I did not represent Japanese or American culture inappropriately!)
+
+<a href='https://photos.google.com/share/AF1QipP6dlXHtT9Dq-CANFvx_oFD3O5QgDRcnFZs8GDHr1YjI5dATiu2XkkRbekLp4wpFQ?key=OTZBVnpJRFZRRGRHYTRRelN2RWNUaVdoX0ZZN3B3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/x8Q6LjuwiWwHp3UOsN2x59OV98T77pD7dPU9eo0toZcJGoMUI3YuwEWR9v2DsALrVd2np_x2fqTJPUUzRTsVfYyNeMI_95QhjF3KkIz88Ho0Mj_WSkySHM4PaLpWCi6wTtfGtf9mxQ=w2400' /></a>
+
+<a href='https://photos.google.com/share/AF1QipOQ6zWxgfe9s5bFJxjkZ0TgeCDfHBav17vewwAyLolLlLVxi5iM9DJ98znRolmFVg?key=ZFlVdURvS3FDdEFtaFJqbTBFYWk1a0tPVTNzMkJ3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/FazxN3-mACIwpNtH_uD6ycSeY26W7--QafH0ovUoFCAFpjHeh-dRhhg8NfcYRngiNpl4h2cIC5K3WpYWZfTnfPOIfY_0HFotOjjI0EMYBNQXgfFPzFemw5pNxZQspV3U6Q04TxyUdg=w2400' /></a>
+
+<a href='https://photos.google.com/share/AF1QipOoQwH0dO45U4gE8aPF52ZCeuXuAxkF7105FmjxWW53bFLbzrZh6yi9_0L8shJh-g?key=REREcHdsczR1Q3VINEl3eFFoQzAwVFBwT01lbEp3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/10FksdXIWg_YDCLA_04OpKEGpljxmjx0fUZNCWFx1ZTZXJYAVx_TawJGQBU8SwjsXbIzIe6LKkAwOLwqTUiSe0UJizmO9OMCiwfhwc_7lzRh2QxjpYxDwLnibwvDOTXR6-F2jUq4yA=w2400' /></a>
