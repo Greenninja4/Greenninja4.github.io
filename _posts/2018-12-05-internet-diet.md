@@ -2,7 +2,7 @@
 layout: post
 title: "Internet Diet"
 date: 2018-12-05 11:40:00 -0500s
-categories: Social Media
+categories:
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5zlYoOmoH5U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,7 +2,7 @@
 layout: post
 title: "Japanese Summer"
 date: 2019-03-08 3:30:00 -0500s
-categories: Japan Japanese Summer Culture
+categories:
 ---
 
 During the 2018 summer, I visited my brother in Japan. He was spending a semester abroad in Nagoya. I had actually visited Japan once before through my high school's Wind Ensemble. Our band visited Okayama and Tokyo as a mini-exchange with a local Japanese high school band. That trip was crazy fun because I got to see all sorts of Japanese culture. There were also a few Japanese students that fell in love with me (I'm assuming because I was a kawaii blond american?), but that's a story for another time!
