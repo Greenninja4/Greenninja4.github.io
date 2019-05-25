@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+favicon: 💙
 ---
 
 I'm John Michael Born, an American guy from the suburbs of Chicago. I like playing around with musical instruments, coding computer programs, and watching  anime (among other things). I'm currently in the Computer Engineering B.S. program at the University of Illinois slated to graduate in May 2020. After two years of studying computers, I have gained one main takeaway; computers are black magic.

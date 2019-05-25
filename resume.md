@@ -2,6 +2,7 @@
 layout: page
 title: Résumé
 permalink: /resume/
+favicon: 📝
 ---
 
 [Current Résumé](https://github.com/Greenninja4/Greenninja4.github.io/blob/master/resume.pdf "I'm a résumé, look at meeeee :)")
