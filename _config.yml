@@ -21,3 +21,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jemoji
+
+# Google analytics
+google_analytics: UA-140822027-1
