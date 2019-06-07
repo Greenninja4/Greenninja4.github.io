@@ -21,6 +21,13 @@ theme: minima
 plugins:
   - jekyll-feed
   - jemoji
+  - jekyll-assets
 
 # Google analytics
 google_analytics: UA-140822027-1
+
+# Jekyll assets plugin?
+assets:
+  sources:
+    - _assets/
+    - _assets/js/
